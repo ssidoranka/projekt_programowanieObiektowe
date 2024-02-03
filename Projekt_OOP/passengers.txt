@@ -1,0 +1,8 @@
+Siamion,Sidoranka,3afbcfdc-ae20-4632-9e80-656f54523d0f
+Siamion ,Sidoranka,8129ed36-7f8e-496b-9dc2-b166a093383d
+S,S,3b208972-b535-4eee-a534-3449c346fc11
+S,Q,5dba7571-a0aa-46bb-bdc7-7923d5d0a4df
+S,Q,56459453-e165-41b8-9238-22a16d0446d2
+Siamion,Sidoranka,1b92567d-4def-4b67-bae2-bf353a0568d2,1
+Siamino,Sidoranka,3e6bb741-d952-486c-b389-b9eb883759ca,4
+Karol,QWER,03499219-e28f-4d38-9ad7-1218c3cd26a5,4

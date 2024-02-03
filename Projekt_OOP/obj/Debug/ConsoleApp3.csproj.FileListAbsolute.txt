@@ -1,0 +1,10 @@
+D:\proga\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\proga\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\proga\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\proga\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\proga\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\proga\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\proga\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+D:\proga\ConsoleApp3\ConsoleApp3\bin\Debug\System.Data.SQLite.dll
+D:\proga\ConsoleApp3\ConsoleApp3\bin\Debug\System.Data.SQLite.xml
+D:\proga\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CopyComplete
